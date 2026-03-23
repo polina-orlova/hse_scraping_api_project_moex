@@ -100,7 +100,7 @@ The final dataset is produced by vsemerg.ipynb. It joins each news article with 
 
 ### General statistics
 
-| Number of rows | 9,243 |
+| Number of rows | after cleaning 9,243 > 10000 while parsing|
 | :---- | :---- |
 | Number of columns | 16 |
 | Companies | 9 |
